@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edgarngeleso
 - 👀 I’m interested in machine learning,web and android app development
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on programming projects.
+- 💞️ I’m looking to collaborate on the stated programming areas.
 
 <!---
 edgarngeleso/edgarngeleso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
